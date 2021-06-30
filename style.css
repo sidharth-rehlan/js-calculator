@@ -1,0 +1,14 @@
+.calculator {
+  display: flex;
+  justify-content: center;
+}
+
+form button {
+  width: 33%;
+}
+
+.actions,
+.numbers {
+  display: flex;
+  width: 100%;
+}
